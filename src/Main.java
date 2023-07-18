@@ -136,7 +136,7 @@ public class Main {
         int inYearK = increasedK * 12;
         System.out.println(inYearK + " годовой доход Кристины после повышения");
         int difference3 = increasedK - kristinaSalary;
-        System.out.println("Годовой доход Кристины вырос на " + difference3 + " рублей" );
+        System.out.println("Годовой доход Кристины вырос на " +  difference3 + " рублей" );
 
 
 
