@@ -117,7 +117,7 @@ public class Main {
         int inYearM = increasedM * 12;
         System.out.println(inYearM + " годовой доход Маши после повышения");
         int difference = increasedM - mashaSalary;
-        System.out.println("Годовой доход Маши вырос на " + difference + " рублей" );
+        System.out.println("Годовой доход Маши вырос на " + difference + " рублей " );
 
         int denisSalary =  83690;
         int percentD = 8369;
